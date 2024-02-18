@@ -12,5 +12,19 @@
     "content": "salma.",
     "author": "ark x academy",
     "createdAt": "2024-02-17T14:53:28.268Z"
+  },
+  {
+    "id": "3",
+    "title": "rachid",
+    "content": "hello world",
+    "author": "ark x red one",
+    "createdAt": "2024-02-18T14:45:21.009Z"
+  },
+  {
+    "id": "4",
+    "title": "sto",
+    "content": " world",
+    "author": "ark x ",
+    "createdAt": "2024-02-18T14:48:01.537Z"
   }
 ]
