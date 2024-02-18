@@ -1,0 +1,83 @@
+[
+  {
+    "accountID": "ACC1001",
+    "name": "John Doe",
+    "pin": "1234",
+    "balance": null,
+    "transactions": [
+      {
+        "type": "deposit",
+        "amount": 500,
+        "date": "2024-02-01"
+      },
+      {
+        "type": "withdraw",
+        "amount": 200,
+        "date": "2024-02-02"
+      },
+      {
+        "type": "deposit",
+        "date": "2024-02-11T20:17:48.030Z"
+      }
+    ]
+  },
+  {
+    "accountID": "ACC1002",
+    "name": "Jane Smith",
+    "pin": "4321",
+    "balance": 1000,
+    "transactions": [
+      {
+        "type": "deposit",
+        "amount": 1000,
+        "date": "2024-02-03"
+      },
+      {
+        "type": "withdraw",
+        "amount": 300,
+        "date": "2024-02-04"
+      },
+      {
+        "type": "deposit",
+        "date": "2024-02-11T23:01:51.518Z"
+      },
+      {
+        "type": "deposit",
+        "date": "2024-02-11T23:02:17.932Z"
+      },
+      {
+        "type": "deposit",
+        "date": "2024-02-11T23:03:57.484Z"
+      },
+      {
+        "type": "deposit",
+        "date": "2024-02-11T23:05:38.001Z"
+      },
+      {
+        "type": "deposit",
+        "amount": 764,
+        "date": "2024-02-11T23:09:11.380Z"
+      },
+      {
+        "type": "deposit",
+        "amount": 876,
+        "date": "2024-02-11T23:10:24.101Z"
+      },
+      {
+        "type": "deposit",
+        "amount": 331,
+        "date": "2024-02-11T23:12:56.073Z"
+      },
+      {
+        "type": "withdraw",
+        "amount": 324,
+        "date": "2024-02-11T23:16:36.468Z"
+      },
+      {
+        "type": "withdraw",
+        "amount": 647,
+        "date": "2024-02-11T23:17:35.006Z"
+      }
+    ]
+  }
+]

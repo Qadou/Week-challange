@@ -1,0 +1,16 @@
+[
+  {
+    "id": "1",
+    "title": "First Post",
+    "content": "This is the content of the first post.",
+    "author": "John Doe",
+    "createdAt": "2024-02-16T08:00:00.000Z"
+  },
+  {
+    "id": "4",
+    "title": "surprise",
+    "content": "salma.",
+    "author": "ark x academy",
+    "createdAt": "2024-02-17T14:53:28.268Z"
+  }
+]
