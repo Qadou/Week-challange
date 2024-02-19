@@ -7,7 +7,7 @@
     "createdAt": "2024-02-16T08:00:00.000Z"
   },
   {
-    "id": "4",
+    "id": "2",
     "title": "surprise",
     "content": "salma.",
     "author": "ark x academy",
@@ -15,16 +15,16 @@
   },
   {
     "id": "3",
-    "title": "rachid",
-    "content": "hello world",
-    "author": "ark x red one",
-    "createdAt": "2024-02-18T14:45:21.009Z"
+    "title": "Sample Post",
+    "content": "this is a post abcd",
+    "author": "Random Name",
+    "createdAt": "2024-02-18T19:29:27.288Z"
   },
   {
     "id": "4",
-    "title": "sto",
-    "content": " world",
-    "author": "ark x ",
-    "createdAt": "2024-02-18T14:48:01.537Z"
+    "title": "aaaa",
+    "content": "body of text",
+    "author": "eded",
+    "createdAt": "2024-02-18T19:40:29.577Z"
   }
 ]
